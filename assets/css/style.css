@@ -83,6 +83,13 @@ header .navbar .icon_bar {
   background-color: black !important;
 }
 
+.dark .page img {
+  opacity: 0.5;
+}
+.dark .page .header_content{
+  background: none;
+}
+
 /* End Css Dark & Light Mode */
 @media  screen and (max-width: 992px) {
   .schedule_btn {
