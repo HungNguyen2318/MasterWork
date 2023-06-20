@@ -1,0 +1,28 @@
+.error_block {
+    text-align: center;
+    padding: 100px 10px;
+    height: 75vh;
+    display: block;
+    height: max-content;
+}
+
+.error_block h1 {
+    font-weight: 600;
+    font-size: 100px;
+    color: #dc3545 !important;
+}
+.error_block .btn {
+    border-radius: 0px 5px 5px 0px;
+    width: 25%;
+}
+
+.error_block .btn:hover{
+    background-color: #dc3545;
+    opacity: 0.75;
+    border: 1px solid #dc3545;
+}
+
+.error_block .form-control {
+    height: 50px !important;
+    border-radius: 5px 0px 0px 5px;
+}
