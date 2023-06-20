@@ -90,6 +90,11 @@ header .navbar .icon_bar {
   background: none;
 }
 
+.dark .container .navbar .collapse .dropdown ul li a {
+  background-color: white !important;
+  color: black !important;
+}
+
 /* End Css Dark & Light Mode */
 @media  screen and (max-width: 992px) {
   .schedule_btn {
