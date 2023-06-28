@@ -95,6 +95,12 @@ header .navbar .icon_bar {
   color: black !important;
 }
 
+.container .btn:hover{
+  background-color: #dc3545;
+  opacity: 0.75;
+  border: 1px solid #dc3545;
+}
+
 /* End Css Dark & Light Mode */
 @media  screen and (max-width: 992px) {
   .schedule_btn {
