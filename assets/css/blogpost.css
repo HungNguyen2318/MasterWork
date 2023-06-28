@@ -1,0 +1,12 @@
+.carousel_project img {
+    max-width: 100%;
+}
+
+.carousel_project {
+    padding-top: 50px;
+}
+
+.carousel_project .content_blog {
+    padding: auto auto;
+    padding-top: 100px;
+}
